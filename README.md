@@ -1,5 +1,5 @@
 # lpr
-This program performs either a linear, polynomial or an exponential regression on a given data set of dependent and independent variables.
+This program performs either a linear, polynomial or an exponential regression [y=aebx] on a given data set of dependent and independent variables.
 The MAIN required files are included in two zip files (LPR5. Zip and DOSBox Megabuild 6.dmg.zip).
 Refer to the Readme Rev 2 document for more complete information, including Installion instructions.
 
